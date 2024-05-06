@@ -27,7 +27,7 @@ if (empty($_SESSION['username_admin'])) {
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
       <a class="navbar-brand" href="#">
-        <img src="foto/mmm.jpeg" height="50" alt="MMM Logo" loading="lazy" />
+        <img src="mmm.jpeg" height="50" alt="MMM Logo" loading="lazy" />
       </a>
       <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarExample01"
@@ -60,7 +60,7 @@ if (empty($_SESSION['username_admin'])) {
 
     <!-- Background image -->
     <div class="p-5 text-center bg-image" style="
-      background-image: url('foto/background.jpg');
+      background-image: url('background.jpg');
       height: 465px;
     ">
       <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
